@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently getting more experience with **React, Javascript**
 
 - 📫 How to reach me **bukvar2009@gmail.com**
 
