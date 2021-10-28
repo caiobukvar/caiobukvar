@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently getting more experience with **React, Javascript**
 
-- 📫 How to reach me **bukvar2009@gmail.com**
+- 📫 Need to contact me? **bukvar2009@gmail.com**
 
 - ⚡ Fun fact **I'm a clumsy cook!**
 
