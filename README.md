@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
-- 🌱 I’m currently getting more experience with **React, Javascript**
+- 🌱 I’m currently getting more experience with: **React, Javascript**
 
 - 📫 Need to contact me? **bukvar2009@gmail.com**
 
-- ⚡ Fun fact **I'm a clumsy cook!**
+- ⚡ Fun fact: **I'm a clumsy cook!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
