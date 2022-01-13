@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
-- 🌱 I’m currently getting more experience with: **React, Javascript**
+- 🌱 I’m currently working at Cubos Academy as a resident frontend developer, working with: **React, Javascript**
 
 - 📫 Need to contact me? **bukvar2009@gmail.com**
 
