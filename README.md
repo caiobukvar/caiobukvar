@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a frontend developer for <a href='https://unmaze.com.br/'>Unmaze</a>, working with: **React, ChakraUI, Node.JS, Javascript**
 
-- 📫 Need to contact me? **bukvar2009@gmail.com** or reach me on [<a href='https://www.linkedin.com/in/caiobukvar/'>LinkedIn</a>](https://www.linkedin.com/in/caiobukvar/)
+- 📫 Need to contact me? E-mail me on **bukvar2009@gmail.com** or reach me on [<a href='https://www.linkedin.com/in/caiobukvar/'>LinkedIn</a>](https://www.linkedin.com/in/caiobukvar/)
 
 - ⚡ Fun fact: **I'm a clumsy cook!**
 
