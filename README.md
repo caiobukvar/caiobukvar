@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
-- 🌱 I’m currently at Cubos Academy as a resident frontend developer, working with: **React, Javascript**
+- 🌱 I’m currently a frontend developer for <a href='https://unmaze.com.br/'>Unmaze</a>, working with: **React, ChakraUI, Node.JS, Javascript**
 
-- 📫 Need to contact me? **bukvar2009@gmail.com**
+- 📫 Need to contact me? **bukvar2009@gmail.com** or reach me on [<a href='https://www.linkedin.com/in/caiobukvar/'>Unmaze</a>](https://www.linkedin.com/in/caiobukvar/)
 
 - ⚡ Fun fact: **I'm a clumsy cook!**
 
