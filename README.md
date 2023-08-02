@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
-- 🌱 I’m currently a frontend developer for <a href='https://unmaze.com.br/'>Unmaze</a>, working with: **React, ChakraUI, Node.JS, Javascript**
+- 🌱 I’m currently a frontend developer, working with: **React, ChakraUI, Node.JS, Javascript** and also on learning process with **Angular, NextJS and Typescript**!
 
 - 📫 Need to contact me? Reach me on [<a href='https://www.linkedin.com/in/caiobukvar/'>LinkedIn</a>](https://www.linkedin.com/in/caiobukvar/)
 
