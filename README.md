@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! I'm Caio Bukvar</h1>
-<h3 align="center">Developer, from Brazil</h3>
+<h3 align="center">Brazillian Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
