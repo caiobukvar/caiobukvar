@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
-- 🌱 Developer with experience on: **React, Typescript, Angular, NextJS, Redux, Prisma, Sass/CSS, MaterialUI, ChakraUI, Node.JS, Javascript, Docker, PostgreSQL, Websocket** and **Vercel deploys, Figma layouts**. Learning about tests with **Jest**
+- 🌱 Developer with experience on: **React, Typescript, Angular, NextJS, Redux, Prisma, Sass/CSS, MaterialUI, ChakraUI, Node.JS, Express, Javascript, Docker, PostgreSQL, Websocket** and **Vercel deploys, Pagar.me payment integrations, Figma layouts**. Learning about tests with **Jest**
 
 - 📫 Need to contact me? Reach me on [<a href='https://www.linkedin.com/in/caiobukvar/'>LinkedIn</a>](https://www.linkedin.com/in/caiobukvar/)
 
