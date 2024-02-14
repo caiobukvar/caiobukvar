@@ -4,8 +4,6 @@
 <h1 align="center">Caio Bukvar, Fullstack Developer</h1>
 </div>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 
 - 🌱 Software developer since 2021, from Brazil, mainly with javascript and it's frameworks, but always going here and there to check other languages too.
