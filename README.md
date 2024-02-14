@@ -7,6 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
+
 - 🌱 Software developer since 2021, from Brazil, mainly with javascript and it's frameworks, but always going here and there to check other languages too.
 - 📚 Started my career at Cubos Academy, with 'Programação do zero' course then started learning by myself and with help of youtube and some courses, where I keep learning until this day.
 - ⚡ Fun fact: **I'm a clumsy cook!**
