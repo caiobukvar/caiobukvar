@@ -10,6 +10,7 @@
 - 🌱 Software developer since 2021, from Brazil, mainly with javascript and it's frameworks, but always going here and there to check other languages too.
 - 📚 Started my career at Cubos Academy, with 'Programação do zero' course then started learning by myself and with help of youtube and some courses, where I keep learning until this day.
 - ⚡ Fun fact: **I'm a clumsy cook!**
+- 👦 <a href='https://bkvr.dev.br' target='_blank'>Check out my developer portfolio</a>!
 
 <h3 align="left">Connect with me:</h3>
 
