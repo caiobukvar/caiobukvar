@@ -6,7 +6,7 @@
 <h1 align="center">Caio Bukvar, Software Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
-<h3>💡 Quem sou eu:</h3>
+<h3>💡 Who am I:</h3>
 
 - 👋 Hello! I’m Caio Bukvar, a proactive and self-taught software developer focused on creating innovative and functional solutions, while promoting collaboration and knowledge dissemination. Since 2021, I have been working in web and full-stack development, honing my skills through practical projects.
 - 👦 [Check out my developer portfolio](https://bkvr.dev.br/)!
