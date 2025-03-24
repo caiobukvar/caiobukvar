@@ -1,8 +1,3 @@
-<div align='center' justify='center'>
-          
-![AvatarMaker](https://github.com/caiobukvar/caiobukvar/assets/78058375/bf57617d-569e-4895-b7a3-5986f7746a25)
-</div>
-
 <h1 align="center">Caio Bukvar, Software Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
