@@ -3,8 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobukvar&label=Profile%20views&color=0e75b6&style=flat" alt="caiobukvar" /> </p>
 <h3>💡 Who am I:</h3>
 
-- 👋 Hello! I’m Caio Bukvar, a proactive and self-taught software developer focused on creating innovative and functional solutions, while promoting collaboration and knowledge dissemination. Since 2021, I have been working in web and full-stack development, honing my skills through practical projects.
-- 👦 [Check out my developer portfolio](https://bkvr.dev.br/)!
+Hi, I'm Caio! Developer since 2021, transitioning to the cloud world with a focus on AWS. I've always loved learning new things, and now that curiosity has led me to cloud computing.
+
+I have experience in both front-end and back-end, but what excites me most today is discovering how everything fits together between AWS solutions and the code I develop. Working with microservices and APIs gave me a solid foundation to understand how these pieces connect.
+
+[Check out my developer portfolio](https://bkvr.dev.br/)!
 
 <h3 align="left">Connect with me:</h3>
 
